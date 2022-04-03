@@ -1,8 +1,7 @@
 ---
 title: "Hello blog"
-date: "2022-03-25"
-author: "Lorem Ipsum"
 cover: "hello.jpg"
+date: "2022-03-25"
 tags:
   - blog
   - hello
